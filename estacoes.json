@@ -1,0 +1,29 @@
+'linhavermelha': [
+
+    "estacao-guilhermina-esperanca": {
+      "lines": [
+        "linha-3-vermelha"
+      ],
+      "ordem": 2,
+      "anterior" : ""
+      distAnterior: 23,
+      travelTime: 2,
+      "posterior": ""
+      "location": {
+        "address": "Estação Guilhermina - Esperança, São Paulo, Brazil",
+        "latitude": -23.5296917,
+        "longitude": -46.51677129999999
+      },
+      "title": "Guilhermina - Esperança",
+      "schedule": [
+        {
+          "period": "04h40 às 0h25",
+          "title": "Domingo A Sexta"
+        },
+        {
+          "period": "04h40 às 01h00",
+          "title": "Sábados"
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,1892 @@
+[
+    {
+      "_estacaoId": 152,
+      "_nome": "Ana Rosa",
+      "_ordem": "01",
+      "_linhaId": 1,
+      "_linha": "1-Azul",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 14,
+      "_nome": "Armênia",
+      "_ordem": "01",
+      "_linhaId": 1,
+      "_linha": "1-Azul",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 12,
+      "_nome": "Carandiru",
+      "_ordem": "01",
+      "_linhaId": 1,
+      "_linha": "1-Azul",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 29,
+      "_nome": "Conceição",
+      "_ordem": "01",
+      "_linhaId": 1,
+      "_linha": "1-Azul",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 30,
+      "_nome": "Jabaquara",
+      "_ordem": "01",
+      "_linhaId": 1,
+      "_linha": "1-Azul",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 19,
+      "_nome": "Japão-Liberdade",
+      "_ordem": "01",
+      "_linhaId": 1,
+      "_linha": "1-Azul",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 10,
+      "_nome": "Jardim São Paulo-Ayrton Senna",
+      "_ordem": "01",
+      "_linhaId": 1,
+      "_linha": "1-Azul",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 171,
+      "_nome": "Luz",
+      "_ordem": "01",
+      "_linhaId": 1,
+      "_linha": "1-Azul",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 9,
+      "_nome": "Parada Inglesa",
+      "_ordem": "01",
+      "_linhaId": 1,
+      "_linha": "1-Azul",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 174,
+      "_nome": "Paraíso",
+      "_ordem": "01",
+      "_linhaId": 1,
+      "_linha": "1-Azul",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 13,
+      "_nome": "Portuguesa-Tietê",
+      "_ordem": "01",
+      "_linhaId": 1,
+      "_linha": "1-Azul",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 26,
+      "_nome": "Praça da Árvore",
+      "_ordem": "01",
+      "_linhaId": 1,
+      "_linha": "1-Azul",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 25,
+      "_nome": "SantaCruz",
+      "_ordem": "01",
+      "_linhaId": 1,
+      "_linha": "1-Azul",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 11,
+      "_nome": "Santana",
+      "_ordem": "01",
+      "_linhaId": 1,
+      "_linha": "1-Azul",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 17,
+      "_nome": "São Bento",
+      "_ordem": "01",
+      "_linhaId": 1,
+      "_linha": "1-Azul",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 20,
+      "_nome": "São Joaquim",
+      "_ordem": "01",
+      "_linhaId": 1,
+      "_linha": "1-Azul",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 28,
+      "_nome": "São Judas",
+      "_ordem": "01",
+      "_linhaId": 1,
+      "_linha": "1-Azul",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 27,
+      "_nome": "Saúde",
+      "_ordem": "01",
+      "_linhaId": 1,
+      "_linha": "1-Azul",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 186,
+      "_nome": "Sé",
+      "_ordem": "01",
+      "_linhaId": 1,
+      "_linha": "1-Azul",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 15,
+      "_nome": "Tiradentes",
+      "_ordem": "01",
+      "_linhaId": 1,
+      "_linha": "1-Azul",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 8,
+      "_nome": "Tucuruvi",
+      "_ordem": "01",
+      "_linhaId": 1,
+      "_linha": "1-Azul",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 21,
+      "_nome": "Vergueiro",
+      "_ordem": "01",
+      "_linhaId": 1,
+      "_linha": "1-Azul",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 24,
+      "_nome": "Vila Mariana",
+      "_ordem": "01",
+      "_linhaId": 1,
+      "_linha": "1-Azul",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 151,
+      "_nome": "Alto do Ipiranga",
+      "_ordem": "02",
+      "_linhaId": 2,
+      "_linha": "2-Verde",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 153,
+      "_nome": "Ana Rosa",
+      "_ordem": "02",
+      "_linhaId": 2,
+      "_linha": "2-Verde",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 48,
+      "_nome": "Brigadeiro",
+      "_ordem": "02",
+      "_linhaId": 2,
+      "_linha": "2-Verde",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 149,
+      "_nome": "ChacaraKlabin",
+      "_ordem": "02",
+      "_linhaId": 2,
+      "_linha": "2-Verde",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 51,
+      "_nome": "Clínicas",
+      "_ordem": "02",
+      "_linhaId": 2,
+      "_linha": "2-Verde",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 50,
+      "_nome": "Consolação",
+      "_ordem": "02",
+      "_linhaId": 2,
+      "_linha": "2-Verde",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 175,
+      "_nome": "Paraíso",
+      "_ordem": "02",
+      "_linhaId": 2,
+      "_linha": "2-Verde",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 52,
+      "_nome": "S. N. Sra. De Fátima-Sumaré",
+      "_ordem": "02",
+      "_linhaId": 2,
+      "_linha": "2-Verde",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 200,
+      "_nome": "Sacomã",
+      "_ordem": "02",
+      "_linhaId": 2,
+      "_linha": "2-Verde",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 150,
+      "_nome": "Santos-Imigrantes",
+      "_ordem": "02",
+      "_linhaId": 2,
+      "_linha": "2-Verde",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 201,
+      "_nome": "Tamanduateí",
+      "_ordem": "02",
+      "_linhaId": 2,
+      "_linha": "2-Verde",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 49,
+      "_nome": "Trianon-Masp",
+      "_ordem": "02",
+      "_linhaId": 2,
+      "_linha": "2-Verde",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 188,
+      "_nome": "Vila Madalena",
+      "_ordem": "02",
+      "_linhaId": 2,
+      "_linha": "2-Verde",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 202,
+      "_nome": "Vila Prudente",
+      "_ordem": "02",
+      "_linhaId": 2,
+      "_linha": "2-Verde",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 35,
+      "_nome": "Anhangabaú",
+      "_ordem": "03",
+      "_linhaId": 3,
+      "_linha": "3-Vermelha",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 46,
+      "_nome": "Artur Alvim",
+      "_ordem": "03",
+      "_linhaId": 3,
+      "_linha": "3-Vermelha",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 39,
+      "_nome": "Belém",
+      "_ordem": "03",
+      "_linhaId": 3,
+      "_linha": "3-Vermelha",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 157,
+      "_nome": "Brás",
+      "_ordem": "03",
+      "_linhaId": 3,
+      "_linha": "3-Vermelha",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 38,
+      "_nome": "Bresser-Mooca",
+      "_ordem": "03",
+      "_linhaId": 3,
+      "_linha": "3-Vermelha",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 41,
+      "_nome": "Carrão",
+      "_ordem": "03",
+      "_linhaId": 3,
+      "_linha": "3-Vermelha",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 165,
+      "_nome": "Corinthians-Itaquera",
+      "_ordem": "03",
+      "_linhaId": 3,
+      "_linha": "3-Vermelha",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 44,
+      "_nome": "Guilhermina-Esperança",
+      "_ordem": "03",
+      "_linhaId": 3,
+      "_linha": "3-Vermelha",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 32,
+      "_nome": "Marechal Deodoro",
+      "_ordem": "03",
+      "_linhaId": 3,
+      "_linha": "3-Vermelha",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 156,
+      "_nome": "Palmeiras-Barra Funda",
+      "_ordem": "03",
+      "_linhaId": 3,
+      "_linha": "3-Vermelha",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 45,
+      "_nome": "Patriarca",
+      "_ordem": "03",
+      "_linhaId": 3,
+      "_linha": "3-Vermelha",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 36,
+      "_nome": "Pedro II",
+      "_ordem": "03",
+      "_linhaId": 3,
+      "_linha": "3-Vermelha",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 42,
+      "_nome": "Penha",
+      "_ordem": "03",
+      "_linhaId": 3,
+      "_linha": "3-Vermelha",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 338,
+      "_nome": "República",
+      "_ordem": "03",
+      "_linhaId": 3,
+      "_linha": "3-Vermelha",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 33,
+      "_nome": "Santa Cecília",
+      "_ordem": "03",
+      "_linhaId": 3,
+      "_linha": "3-Vermelha",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 187,
+      "_nome": "Sé",
+      "_ordem": "03",
+      "_linhaId": 3,
+      "_linha": "3-Vermelha",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 182,
+      "_nome": "Tatuapé",
+      "_ordem": "03",
+      "_linhaId": 3,
+      "_linha": "3-Vermelha",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 43,
+      "_nome": "Vila Matilde",
+      "_ordem": "03",
+      "_linhaId": 3,
+      "_linha": "3-Vermelha",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 220,
+      "_nome": "Butantã",
+      "_ordem": "04",
+      "_linhaId": 17,
+      "_linha": "4-Amarela",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 218,
+      "_nome": "Faria Lima",
+      "_ordem": "04",
+      "_linhaId": 17,
+      "_linha": "4-Amarela",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 340,
+      "_nome": "Fradique Coutinho",
+      "_ordem": "04",
+      "_linhaId": 17,
+      "_linha": "4-Amarela",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 346,
+      "_nome": "Higienópolis-Mackenzie",
+      "_ordem": "04",
+      "_linhaId": 17,
+      "_linha": "4-Amarela",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 211,
+      "_nome": "Luz",
+      "_ordem": "04",
+      "_linhaId": 17,
+      "_linha": "4-Amarela",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 347,
+      "_nome": "Oscar Freire",
+      "_ordem": "04",
+      "_linhaId": 17,
+      "_linha": "4-Amarela",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 214,
+      "_nome": "Paulista",
+      "_ordem": "04",
+      "_linhaId": 17,
+      "_linha": "4-Amarela",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 335,
+      "_nome": "Pinheiros",
+      "_ordem": "04",
+      "_linhaId": 17,
+      "_linha": "4-Amarela",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 212,
+      "_nome": "República",
+      "_ordem": "04",
+      "_linhaId": 17,
+      "_linha": "4-Amarela",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 354,
+      "_nome": "São Paulo-Morumbi",
+      "_ordem": "04",
+      "_linhaId": 17,
+      "_linha": "4-Amarela",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 350,
+      "_nome": "AACD-Servidor",
+      "_ordem": "05",
+      "_linhaId": 10,
+      "_linha": "5-Lilás",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 339,
+      "_nome": "Adolfo Pinheiro",
+      "_ordem": "05",
+      "_linhaId": 10,
+      "_linha": "5-Lilás",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 343,
+      "_nome": "Alto da Boa Vista",
+      "_ordem": "05",
+      "_linhaId": 10,
+      "_linha": "5-Lilás",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 344,
+      "_nome": "Borba Gato",
+      "_ordem": "05",
+      "_linhaId": 10,
+      "_linha": "5-Lilás",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 345,
+      "_nome": "Brooklin",
+      "_ordem": "05",
+      "_linhaId": 10,
+      "_linha": "5-Lilás",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 359,
+      "_nome": "Campo Belo",
+      "_ordem": "05",
+      "_linhaId": 10,
+      "_linha": "5-Lilás",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 55,
+      "_nome": "Campo Limpo",
+      "_ordem": "05",
+      "_linhaId": 10,
+      "_linha": "5-Lilás",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 54,
+      "_nome": "Capão Redondo",
+      "_ordem": "05",
+      "_linhaId": 10,
+      "_linha": "5-Lilás",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 353,
+      "_nome": "Chácara Klabin",
+      "_ordem": "05",
+      "_linhaId": 10,
+      "_linha": "5-Lilás",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 348,
+      "_nome": "Eucaliptos",
+      "_ordem": "05",
+      "_linhaId": 10,
+      "_linha": "5-Lilás",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 57,
+      "_nome": "Giovanni Gronchi",
+      "_ordem": "05",
+      "_linhaId": 10,
+      "_linha": "5-Lilás",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 351,
+      "_nome": "Hospital São Paulo",
+      "_ordem": "05",
+      "_linhaId": 10,
+      "_linha": "5-Lilás",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 59,
+      "_nome": "Largo 13",
+      "_ordem": "05",
+      "_linhaId": 10,
+      "_linha": "5-Lilás",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 349,
+      "_nome": "Moema",
+      "_ordem": "05",
+      "_linhaId": 10,
+      "_linha": "5-Lilás",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 352,
+      "_nome": "Santa Cruz",
+      "_ordem": "05",
+      "_linhaId": 10,
+      "_linha": "5-Lilás",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 179,
+      "_nome": "Santo Amaro",
+      "_ordem": "05",
+      "_linhaId": 10,
+      "_linha": "5-Lilás",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 56,
+      "_nome": "Vila das Belezas",
+      "_ordem": "05",
+      "_linhaId": 10,
+      "_linha": "5-Lilás",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 74,
+      "_nome": "Água Branca",
+      "_ordem": "07",
+      "_linhaId": 4,
+      "_linha": "7-Rubi (Luz-Francisco Morato-Jundiaí)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 65,
+      "_nome": "Baltazar Fidélis",
+      "_ordem": "07",
+      "_linhaId": 4,
+      "_linha": "7-Rubi (Luz-Francisco Morato-Jundiaí)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 206,
+      "_nome": "Botujuru",
+      "_ordem": "07",
+      "_linhaId": 4,
+      "_linha": "7-Rubi (Luz-Francisco Morato-Jundiaí)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 67,
+      "_nome": "Caieiras",
+      "_ordem": "07",
+      "_linhaId": 4,
+      "_linha": "7-Rubi (Luz-Francisco Morato-Jundiaí)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 205,
+      "_nome": "Campo Limpo Paulista",
+      "_ordem": "07",
+      "_linhaId": 4,
+      "_linha": "7-Rubi (Luz-Francisco Morato-Jundiaí)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 64,
+      "_nome": "Francisco Morato",
+      "_ordem": "07",
+      "_linhaId": 4,
+      "_linha": "7-Rubi (Luz-Francisco Morato-Jundiaí)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 66,
+      "_nome": "Franco da Rocha",
+      "_ordem": "07",
+      "_linhaId": 4,
+      "_linha": "7-Rubi (Luz-Francisco Morato-Jundiaí)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 69,
+      "_nome": "Jaraguá",
+      "_ordem": "07",
+      "_linhaId": 4,
+      "_linha": "7-Rubi (Luz-Francisco Morato-Jundiaí)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 203,
+      "_nome": "Jundiaí",
+      "_ordem": "07",
+      "_linhaId": 4,
+      "_linha": "7-Rubi (Luz-Francisco Morato-Jundiaí)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 73,
+      "_nome": "Lapa",
+      "_ordem": "07",
+      "_linhaId": 4,
+      "_linha": "7-Rubi (Luz-Francisco Morato-Jundiaí)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 170,
+      "_nome": "Luz",
+      "_ordem": "07",
+      "_linhaId": 4,
+      "_linha": "7-Rubi (Luz-Francisco Morato-Jundiaí)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 154,
+      "_nome": "Palmeiras-Barra Funda",
+      "_ordem": "07",
+      "_linhaId": 4,
+      "_linha": "7-Rubi (Luz-Francisco Morato-Jundiaí)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 68,
+      "_nome": "Perus",
+      "_ordem": "07",
+      "_linhaId": 4,
+      "_linha": "7-Rubi (Luz-Francisco Morato-Jundiaí)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 72,
+      "_nome": "Piqueri",
+      "_ordem": "07",
+      "_linhaId": 4,
+      "_linha": "7-Rubi (Luz-Francisco Morato-Jundiaí)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 71,
+      "_nome": "Pirituba",
+      "_ordem": "07",
+      "_linhaId": 4,
+      "_linha": "7-Rubi (Luz-Francisco Morato-Jundiaí)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 204,
+      "_nome": "Várzea Paulista",
+      "_ordem": "07",
+      "_linhaId": 4,
+      "_linha": "7-Rubi (Luz-Francisco Morato-Jundiaí)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 266,
+      "_nome": "Vila Aurora",
+      "_ordem": "07",
+      "_linhaId": 4,
+      "_linha": "7-Rubi (Luz-Francisco Morato-Jundiaí)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 70,
+      "_nome": "Vila Clarice",
+      "_ordem": "07",
+      "_linhaId": 4,
+      "_linha": "7-Rubi (Luz-Francisco Morato-Jundiaí)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 86,
+      "_nome": "Antônio João",
+      "_ordem": "08",
+      "_linhaId": 5,
+      "_linha": "8-Diamante (Júlio Prestes-Itapevi-Amador Bueno)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 85,
+      "_nome": "Barueri",
+      "_ordem": "08",
+      "_linhaId": 5,
+      "_linha": "8-Diamante (Júlio Prestes-Itapevi-Amador Bueno)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 88,
+      "_nome": "Carapicuíba",
+      "_ordem": "08",
+      "_linhaId": 5,
+      "_linha": "8-Diamante (Júlio Prestes-Itapevi-Amador Bueno)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 91,
+      "_nome": "Comandante Sampaio",
+      "_ordem": "08",
+      "_linhaId": 5,
+      "_linha": "8-Diamante (Júlio Prestes-Itapevi-Amador Bueno)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 95,
+      "_nome": "Domingos de Moraes",
+      "_ordem": "08",
+      "_linhaId": 5,
+      "_linha": "8-Diamante (Júlio Prestes-Itapevi-Amador Bueno)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 80,
+      "_nome": "Engenheiro Cardoso",
+      "_ordem": "08",
+      "_linhaId": 5,
+      "_linha": "8-Diamante (Júlio Prestes-Itapevi-Amador Bueno)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 89,
+      "_nome": "General Miguel Costa",
+      "_ordem": "08",
+      "_linhaId": 5,
+      "_linha": "8-Diamante (Júlio Prestes-Itapevi-Amador Bueno)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 94,
+      "_nome": "Imperatriz Leopoldina",
+      "_ordem": "08",
+      "_linhaId": 5,
+      "_linha": "8-Diamante (Júlio Prestes-Itapevi-Amador Bueno)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 79,
+      "_nome": "Itapevi",
+      "_ordem": "08",
+      "_linhaId": 5,
+      "_linha": "8-Diamante (Júlio Prestes-Itapevi-Amador Bueno)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 82,
+      "_nome": "Jandira",
+      "_ordem": "08",
+      "_linhaId": 5,
+      "_linha": "8-Diamante (Júlio Prestes-Itapevi-Amador Bueno)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 84,
+      "_nome": "Jardim Belval",
+      "_ordem": "08",
+      "_linhaId": 5,
+      "_linha": "8-Diamante (Júlio Prestes-Itapevi-Amador Bueno)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 83,
+      "_nome": "Jardim Silveira",
+      "_ordem": "08",
+      "_linhaId": 5,
+      "_linha": "8-Diamante (Júlio Prestes-Itapevi-Amador Bueno)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 148,
+      "_nome": "Júlio Prestes",
+      "_ordem": "08",
+      "_linhaId": 5,
+      "_linha": "8-Diamante (Júlio Prestes-Itapevi-Amador Bueno)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 96,
+      "_nome": "Lapa",
+      "_ordem": "08",
+      "_linhaId": 5,
+      "_linha": "8-Diamante (Júlio Prestes-Itapevi-Amador Bueno)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 172,
+      "_nome": "Osasco",
+      "_ordem": "08",
+      "_linhaId": 5,
+      "_linha": "8-Diamante (Júlio Prestes-Itapevi-Amador Bueno)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 155,
+      "_nome": "Palmeiras-Barra Funda",
+      "_ordem": "08",
+      "_linhaId": 5,
+      "_linha": "8-Diamante (Júlio Prestes-Itapevi-Amador Bueno)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 176,
+      "_nome": "Presidente Altino",
+      "_ordem": "08",
+      "_linhaId": 5,
+      "_linha": "8-Diamante (Júlio Prestes-Itapevi-Amador Bueno)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 90,
+      "_nome": "Quitaúna",
+      "_ordem": "08",
+      "_linhaId": 5,
+      "_linha": "8-Diamante (Júlio Prestes-Itapevi-Amador Bueno)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 81,
+      "_nome": "Sagrado Coração",
+      "_ordem": "08",
+      "_linhaId": 5,
+      "_linha": "8-Diamante (Júlio Prestes-Itapevi-Amador Bueno)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 87,
+      "_nome": "Santa Terezinha",
+      "_ordem": "08",
+      "_linhaId": 5,
+      "_linha": "8-Diamante (Júlio Prestes-Itapevi-Amador Bueno)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 192,
+      "_nome": "Autódromo",
+      "_ordem": "09",
+      "_linhaId": 6,
+      "_linha": "9-Esmeralda (Osasco-Grajaú)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 104,
+      "_nome": "Berrini",
+      "_ordem": "09",
+      "_linhaId": 6,
+      "_linha": "9-Esmeralda (Osasco-Grajaú)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 97,
+      "_nome": "Ceasa",
+      "_ordem": "09",
+      "_linhaId": 6,
+      "_linha": "9-Esmeralda (Osasco-Grajaú)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 102,
+      "_nome": "Cidade Jardim",
+      "_ordem": "09",
+      "_linhaId": 6,
+      "_linha": "9-Esmeralda (Osasco-Grajaú)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 190,
+      "_nome": "Cidade Universitária",
+      "_ordem": "09",
+      "_linhaId": 6,
+      "_linha": "9-Esmeralda (Osasco-Grajaú)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 198,
+      "_nome": "Grajaú",
+      "_ordem": "09",
+      "_linhaId": 6,
+      "_linha": "9-Esmeralda (Osasco-Grajaú)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 106,
+      "_nome": "Granja Julieta",
+      "_ordem": "09",
+      "_linhaId": 6,
+      "_linha": "9-Esmeralda (Osasco-Grajaú)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 101,
+      "_nome": "Hebraica-Rebouças",
+      "_ordem": "09",
+      "_linhaId": 6,
+      "_linha": "9-Esmeralda (Osasco-Grajaú)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 108,
+      "_nome": "Jurubatuba",
+      "_ordem": "09",
+      "_linhaId": 6,
+      "_linha": "9-Esmeralda (Osasco-Grajaú)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 105,
+      "_nome": "Morumbi",
+      "_ordem": "09",
+      "_linhaId": 6,
+      "_linha": "9-Esmeralda (Osasco-Grajaú)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 173,
+      "_nome": "Osasco",
+      "_ordem": "09",
+      "_linhaId": 6,
+      "_linha": "9-Esmeralda (Osasco-Grajaú)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 100,
+      "_nome": "Pinheiros",
+      "_ordem": "09",
+      "_linhaId": 6,
+      "_linha": "9-Esmeralda (Osasco-Grajaú)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 177,
+      "_nome": "Presidente Altino",
+      "_ordem": "09",
+      "_linhaId": 6,
+      "_linha": "9-Esmeralda (Osasco-Grajaú)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 197,
+      "_nome": "Primavera-Interlagos",
+      "_ordem": "09",
+      "_linhaId": 6,
+      "_linha": "9-Esmeralda (Osasco-Grajaú)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 178,
+      "_nome": "Santo Amaro",
+      "_ordem": "09",
+      "_linhaId": 6,
+      "_linha": "9-Esmeralda (Osasco-Grajaú)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 107,
+      "_nome": "Socorro",
+      "_ordem": "09",
+      "_linhaId": 6,
+      "_linha": "9-Esmeralda (Osasco-Grajaú)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 98,
+      "_nome": "Vila Lobos-Jaguaré",
+      "_ordem": "09",
+      "_linhaId": 6,
+      "_linha": "9-Esmeralda (Osasco-Grajaú)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 103,
+      "_nome": "Vila Olímpia",
+      "_ordem": "09",
+      "_linhaId": 6,
+      "_linha": "9-Esmeralda (Osasco-Grajaú)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 158,
+      "_nome": "Brás",
+      "_ordem": 10,
+      "_linhaId": 7,
+      "_linha": "10-Turquesa (Luz-Rio Grande da Serra)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 117,
+      "_nome": "Capuava",
+      "_ordem": 10,
+      "_linhaId": 7,
+      "_linha": "10-Turquesa (Luz-Rio Grande da Serra)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 119,
+      "_nome": "Guapituba",
+      "_ordem": 10,
+      "_linhaId": 7,
+      "_linha": "10-Turquesa (Luz-Rio Grande da Serra)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 110,
+      "_nome": "Ipiranga",
+      "_ordem": 10,
+      "_linhaId": 7,
+      "_linha": "10-Turquesa (Luz-Rio Grande da Serra)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 118,
+      "_nome": "Mauá",
+      "_ordem": 10,
+      "_linhaId": 7,
+      "_linha": "10-Turquesa (Luz-Rio Grande da Serra)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 109,
+      "_nome": "Mooca",
+      "_ordem": 10,
+      "_linhaId": 7,
+      "_linha": "10-Turquesa (Luz-Rio Grande da Serra)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 114,
+      "_nome": "Prefeito Saladino",
+      "_ordem": 10,
+      "_linhaId": 7,
+      "_linha": "10-Turquesa (Luz-Rio Grande da Serra)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 120,
+      "_nome": "Ribeirão Pires",
+      "_ordem": 10,
+      "_linhaId": 7,
+      "_linha": "10-Turquesa (Luz-Rio Grande da Serra)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 121,
+      "_nome": "Rio Grande da Serra",
+      "_ordem": 10,
+      "_linhaId": 7,
+      "_linha": "10-Turquesa (Luz-Rio Grande da Serra)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 181,
+      "_nome": "Santo André",
+      "_ordem": 10,
+      "_linhaId": 7,
+      "_linha": "10-Turquesa (Luz-Rio Grande da Serra)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 112,
+      "_nome": "São Caetano",
+      "_ordem": 10,
+      "_linhaId": 7,
+      "_linha": "10-Turquesa (Luz-Rio Grande da Serra)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 111,
+      "_nome": "Tamanduateí",
+      "_ordem": 10,
+      "_linhaId": 7,
+      "_linha": "10-Turquesa (Luz-Rio Grande da Serra)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 113,
+      "_nome": "Utinga",
+      "_ordem": 10,
+      "_linhaId": 7,
+      "_linha": "10-Turquesa (Luz-Rio Grande da Serra)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 134,
+      "_nome": "Antonio Gianetti",
+      "_ordem": 11,
+      "_linhaId": 14,
+      "_linha": "11-Coral (Guaianazes-Estudantes)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 139,
+      "_nome": "Braz Cubas",
+      "_ordem": 11,
+      "_linhaId": 14,
+      "_linha": "11-Coral (Guaianazes-Estudantes)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 162,
+      "_nome": "Calmon Viana",
+      "_ordem": 11,
+      "_linhaId": 14,
+      "_linha": "11-Coral (Guaianazes-Estudantes)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 141,
+      "_nome": "Estudantes",
+      "_ordem": 11,
+      "_linhaId": 14,
+      "_linha": "11-Coral (Guaianazes-Estudantes)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 135,
+      "_nome": "Ferraz de Vasconcelos",
+      "_ordem": 11,
+      "_linhaId": 14,
+      "_linha": "11-Coral (Guaianazes-Estudantes)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 167,
+      "_nome": "Guaianazes",
+      "_ordem": 11,
+      "_linhaId": 14,
+      "_linha": "11-Coral (Guaianazes-Estudantes)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 138,
+      "_nome": "Jundiapeba",
+      "_ordem": 11,
+      "_linhaId": 14,
+      "_linha": "11-Coral (Guaianazes-Estudantes)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 140,
+      "_nome": "Mogi das Cruzes",
+      "_ordem": 11,
+      "_linhaId": 14,
+      "_linha": "11-Coral (Guaianazes-Estudantes)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 136,
+      "_nome": "Poá",
+      "_ordem": 11,
+      "_linhaId": 14,
+      "_linha": "11-Coral (Guaianazes-Estudantes)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 137,
+      "_nome": "Suzano",
+      "_ordem": 11,
+      "_linhaId": 14,
+      "_linha": "11-Coral (Guaianazes-Estudantes)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 159,
+      "_nome": "Brás",
+      "_ordem": 11,
+      "_linhaId": 8,
+      "_linha": "11-Coral-Expresso Leste (Luz-Guaianazes)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 164,
+      "_nome": "Corinthians-Itaquera",
+      "_ordem": 11,
+      "_linhaId": 8,
+      "_linha": "11-Coral-Expresso Leste (Luz-Guaianazes)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 131,
+      "_nome": "Dom Bosco",
+      "_ordem": 11,
+      "_linhaId": 8,
+      "_linha": "11-Coral-Expresso Leste (Luz-Guaianazes)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 166,
+      "_nome": "Guaianazes",
+      "_ordem": 11,
+      "_linhaId": 8,
+      "_linha": "11-Coral-Expresso Leste (Luz-Guaianazes)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 132,
+      "_nome": "José Bonifácio",
+      "_ordem": 11,
+      "_linhaId": 8,
+      "_linha": "11-Coral-Expresso Leste (Luz-Guaianazes)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 169,
+      "_nome": "Luz",
+      "_ordem": 11,
+      "_linhaId": 8,
+      "_linha": "11-Coral-Expresso Leste (Luz-Guaianazes)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 183,
+      "_nome": "Tatuapé",
+      "_ordem": 11,
+      "_linhaId": 8,
+      "_linha": "11-Coral-Expresso Leste (Luz-Guaianazes)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 129,
+      "_nome": "Aracaré",
+      "_ordem": 12,
+      "_linhaId": 9,
+      "_linha": "12-Safira (Brás-Calmon Viana)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 161,
+      "_nome": "Brás",
+      "_ordem": 12,
+      "_linhaId": 9,
+      "_linha": "12-Safira (Brás-Calmon Viana)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 163,
+      "_nome": "Calmon Viana",
+      "_ordem": 12,
+      "_linhaId": 9,
+      "_linha": "12-Safira (Brás-Calmon Viana)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 124,
+      "_nome": "Comendador Ermelino",
+      "_ordem": 12,
+      "_linhaId": 9,
+      "_linha": "12-Safira (Brás-Calmon Viana)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 123,
+      "_nome": "Engenheiro Goulart",
+      "_ordem": 12,
+      "_linhaId": 9,
+      "_linha": "12-Safira (Brás-Calmon Viana)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 127,
+      "_nome": "Engenheiro Manoel Feio",
+      "_ordem": 12,
+      "_linhaId": 9,
+      "_linha": "12-Safira (Brás-Calmon Viana)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 126,
+      "_nome": "Itaim Paulista",
+      "_ordem": 12,
+      "_linhaId": 9,
+      "_linha": "12-Safira (Brás-Calmon Viana)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 128,
+      "_nome": "Itaquaquecetuba",
+      "_ordem": 12,
+      "_linhaId": 9,
+      "_linha": "12-Safira (Brás-Calmon Viana)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 199,
+      "_nome": "Jardim Helena-Vila Mara",
+      "_ordem": 12,
+      "_linhaId": 9,
+      "_linha": "12-Safira (Brás-Calmon Viana)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 207,
+      "_nome": "Jardim Romano",
+      "_ordem": 12,
+      "_linhaId": 9,
+      "_linha": "12-Safira (Brás-Calmon Viana)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 125,
+      "_nome": "São Miguel Paulista",
+      "_ordem": 12,
+      "_linhaId": 9,
+      "_linha": "12-Safira (Brás-Calmon Viana)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 184,
+      "_nome": "Tatuapé",
+      "_ordem": 12,
+      "_linhaId": 9,
+      "_linha": "12-Safira (Brás-Calmon Viana)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 196,
+      "_nome": "USP Leste",
+      "_ordem": 12,
+      "_linhaId": 9,
+      "_linha": "12-Safira (Brás-Calmon Viana)",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 367,
+      "_nome": "Aeroporto-Guarulhos-Jade",
+      "_ordem": 13,
+      "_linhaId": 20,
+      "_linha": "13-Jade",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 362,
+      "_nome": "Engenheiro Goulart-Jade",
+      "_ordem": 13,
+      "_linhaId": 20,
+      "_linha": "13-Jade",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 366,
+      "_nome": "Guarulhos-CECAP-Jade",
+      "_ordem": 13,
+      "_linhaId": 20,
+      "_linha": "13-Jade",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 370,
+      "_nome": "Aeroporto-Guarulhos-JadeServicoConect",
+      "_ordem": 13,
+      "_linhaId": 21,
+      "_linha": "13-Jade Serviço Conect",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 364,
+      "_nome": "Brás-JadeServicoConect",
+      "_ordem": 13,
+      "_linhaId": 21,
+      "_linha": "13-Jade Serviço Conect",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 368,
+      "_nome": "Engenheiro Goulart-JadeServicoConect",
+      "_ordem": 13,
+      "_linhaId": 21,
+      "_linha": "13-Jade Serviço Conect",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 369,
+      "_nome": "Guarulhos-CECAP-JadeServicoConect",
+      "_ordem": 13,
+      "_linhaId": 21,
+      "_linha": "13-Jade Serviço Conect",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 365,
+      "_nome": "Tatuapé-JadeServicoConect",
+      "_ordem": 13,
+      "_linhaId": 21,
+      "_linha": "13-Jade Serviço Conect",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 360,
+      "_nome": "Aeroporto-Guarulhos-Airport-Express",
+      "_ordem": 13,
+      "_linhaId": 19,
+      "_linha": "13-Jade-Airport Express",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 361,
+      "_nome": "Luz-Airport-Express",
+      "_ordem": 13,
+      "_linhaId": 19,
+      "_linha": "13-Jade-Airport Express",
+      "_tipoId": 2,
+      "_tipo": "CPTM"
+    },
+    {
+      "_estacaoId": 356,
+      "_nome": "Camilo Haddad",
+      "_ordem": 15,
+      "_linhaId": 18,
+      "_linha": "15-Prata",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 373,
+      "_nome": "Fazenda da Juta",
+      "_ordem": 15,
+      "_linhaId": 18,
+      "_linha": "15-Prata",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 371,
+      "_nome": "Jardim Planalto",
+      "_ordem": 15,
+      "_linhaId": 18,
+      "_linha": "15-Prata",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 341,
+      "_nome": "Oratório",
+      "_ordem": 15,
+      "_linhaId": 18,
+      "_linha": "15-Prata",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 355,
+      "_nome": "São Lucas",
+      "_ordem": 15,
+      "_linhaId": 18,
+      "_linha": "15-Prata",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 374,
+      "_nome": "São Mateus",
+      "_ordem": 15,
+      "_linhaId": 18,
+      "_linha": "15-Prata",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 372,
+      "_nome": "Sapopemba",
+      "_ordem": 15,
+      "_linhaId": 18,
+      "_linha": "15-Prata",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 342,
+      "_nome": "Vila Prudente",
+      "_ordem": 15,
+      "_linhaId": 18,
+      "_linha": "15-Prata",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 357,
+      "_nome": "Vila Tolstói",
+      "_ordem": 15,
+      "_linhaId": 18,
+      "_linha": "15-Prata",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 358,
+      "_nome": "Vila União",
+      "_ordem": 15,
+      "_linhaId": 18,
+      "_linha": "15-Prata",
+      "_tipoId": 1,
+      "_tipo": "Metrô"
+    },
+    {
+      "_estacaoId": 142,
+      "_nome": "Diadema",
+      "_ordem": 999,
+      "_linhaId": 11,
+      "_linha": "EMTU",
+      "_tipoId": 3,
+      "_tipo": "EMTU"
+    },
+    {
+      "_estacaoId": 145,
+      "_nome": "Ferrazópolis",
+      "_ordem": 999,
+      "_linhaId": 11,
+      "_linha": "EMTU",
+      "_tipoId": 3,
+      "_tipo": "EMTU"
+    },
+    {
+      "_estacaoId": 337,
+      "_nome": "Jabaquara",
+      "_ordem": 999,
+      "_linhaId": 11,
+      "_linha": "EMTU",
+      "_tipoId": 3,
+      "_tipo": "EMTU"
+    },
+    {
+      "_estacaoId": 336,
+      "_nome": "Morumbi",
+      "_ordem": 999,
+      "_linhaId": 11,
+      "_linha": "EMTU",
+      "_tipoId": 3,
+      "_tipo": "EMTU"
+    },
+    {
+      "_estacaoId": 143,
+      "_nome": "Piraporinha",
+      "_ordem": 999,
+      "_linhaId": 11,
+      "_linha": "EMTU",
+      "_tipoId": 3,
+      "_tipo": "EMTU"
+    },
+    {
+      "_estacaoId": 180,
+      "_nome": "Santo André",
+      "_ordem": 999,
+      "_linhaId": 11,
+      "_linha": "EMTU",
+      "_tipoId": 3,
+      "_tipo": "EMTU"
+    },
+    {
+      "_estacaoId": 144,
+      "_nome": "São Bernardo",
+      "_ordem": 999,
+      "_linhaId": 11,
+      "_linha": "EMTU",
+      "_tipoId": 3,
+      "_tipo": "EMTU"
+    },
+    {
+      "_estacaoId": 147,
+      "_nome": "São Mateus",
+      "_ordem": 999,
+      "_linhaId": 11,
+      "_linha": "EMTU",
+      "_tipoId": 3,
+      "_tipo": "EMTU"
+    },
+    {
+      "_estacaoId": 146,
+      "_nome": "Sônia Maria",
+      "_ordem": 999,
+      "_linhaId": 11,
+      "_linha": "EMTU",
+      "_tipoId": 3,
+      "_tipo": "EMTU"
+    }
+  ]
